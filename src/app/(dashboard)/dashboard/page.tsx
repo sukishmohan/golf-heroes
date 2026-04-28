@@ -40,6 +40,11 @@ export default function DashboardPage() {
         role: 'subscriber',
         charity_id: '1',
         subscription_status: 'active',
+        stripe_customer_id: null,
+        subscription_plan: null,
+        subscription_end_date: null,
+        charity_percentage: 10,
+        created_at: new Date().toISOString(),
         updated_at: new Date().toISOString(),
       }
 
