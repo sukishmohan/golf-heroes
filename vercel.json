@@ -3,22 +3,10 @@
   "devCommand": "npm run dev",
   "installCommand": "npm ci",
   "framework": "nextjs",
-  "env": [
-    {
-      "key": "NEXT_PUBLIC_SUPABASE_URL",
-      "value": "https://placeholder.supabase.co"
-    },
-    {
-      "key": "NEXT_PUBLIC_SUPABASE_ANON_KEY",
-      "value": "placeholder_anon_key"
-    },
-    {
-      "key": "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY",
-      "value": "pk_test_placeholder"
-    },
-    {
-      "key": "RESEND_API_KEY",
-      "value": "re_placeholder"
-    }
-  ]
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://placeholder.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "placeholder_anon_key",
+    "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "pk_test_placeholder",
+    "RESEND_API_KEY": "re_placeholder"
+  }
 }
