@@ -3,9 +3,7 @@ import Stripe from 'stripe'
 // Use placeholder key if not set (for development/testing)
 const stripeKey = process.env.STRIPE_SECRET_KEY || 'sk_test_placeholder_key_for_build'
 
-export const stripe = new Stripe(stripeKey, {
-  apiVersion: '2023-10-16',
-})
+export const stripe = new Stripe(stripeKey)
 
 export async function createCheckoutSession(
   customerId: string,
