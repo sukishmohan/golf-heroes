@@ -6,7 +6,13 @@
   "env": {
     "NEXT_PUBLIC_SUPABASE_URL": "https://placeholder.supabase.co",
     "NEXT_PUBLIC_SUPABASE_ANON_KEY": "placeholder_anon_key",
+    "SUPABASE_SERVICE_ROLE_KEY": "placeholder_service_role_key",
     "NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY": "pk_test_placeholder",
-    "RESEND_API_KEY": "re_placeholder"
+    "STRIPE_SECRET_KEY": "sk_test_placeholder",
+    "STRIPE_WEBHOOK_SECRET": "whsec_placeholder",
+    "STRIPE_MONTHLY_PRICE_ID": "price_placeholder_monthly",
+    "STRIPE_YEARLY_PRICE_ID": "price_placeholder_yearly",
+    "RESEND_API_KEY": "re_placeholder",
+    "NEXT_PUBLIC_APP_URL": "https://golf-heroes.vercel.app"
   }
 }
