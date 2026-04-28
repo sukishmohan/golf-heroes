@@ -4,13 +4,12 @@
 
 ### Live Website URL (Vercel)
 ```
-https://golf-heroes-984f0pywd-sukishmohans-projects.vercel.app
+https://golf-heroes-eight.vercel.app
 ```
-**Alias:** https://golf-heroes-eight.vercel.app
 
 ### User Dashboard URL
 ```
-https://golf-heroes-984f0pywd-sukishmohans-projects.vercel.app/dashboard
+https://golf-heroes-eight.vercel.app/dashboard
 ```
 
 ### GitHub Source Code Repository URL
@@ -20,7 +19,7 @@ https://github.com/sukishmohan/golf-heroes
 
 ### Admin Panel URL
 ```
-https://golf-heroes-984f0pywd-sukishmohans-projects.vercel.app/admin
+https://golf-heroes-eight.vercel.app/admin
 ```
 
 ### Admin Panel Email
